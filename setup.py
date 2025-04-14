@@ -27,7 +27,7 @@ with open('magenta/version.py') as in_file:
 REQUIRED_PACKAGES = [
     'absl-py == 1.2.0',
     'dm-sonnet == 2.0.0',
-    'imageio == 2.20.0',
+    'imageio == 2.15.0',
     'librosa == 0.7.2',
     'matplotlib == 3.5.2',
     'mido == 1.2.6',
